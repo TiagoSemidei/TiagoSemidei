@@ -1,13 +1,12 @@
 # Database Administrator
 
-- 💼 **Trabalho na** [cnseg](https://www.cnseg.org.br/)
+- 💼 **Trabalho na** [Vockan](https://vockan.com/)
 - 🎓 **Bacharelando em Engenharia de Software** (segunda graduação)
-- 🎓 **Pós-graduando em DevOps**
 - ✅ **Conhecimento em**:
   - Oracle
   - Microsoft SQL Server
   - PostgreSQL
-  - MySQL
+  - Progress Open Edge
 
 ---
 

@@ -1,7 +1,7 @@
 # Database Administrator
 
 - 💼 **Trabalho na** [Vockan](https://vockan.com/)
-- 🎓 **Bacharelando em Engenharia de Software** (segunda graduação)
+- 🎓 **Bacharelando em Sistemas da Informação** (segunda graduação)
 - ✅ **Conhecimento em**:
   - Oracle
   - Microsoft SQL Server

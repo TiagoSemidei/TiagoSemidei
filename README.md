@@ -2,11 +2,11 @@
 
 - 💼 **Trabalho na** [Vockan](https://vockan.com/)
 - 🎓 **Bacharelando em Sistemas da Informação** (segunda graduação)
-- ✅ **Conhecimento em**:
-- Oracle
-- Microsoft SQL Server
-- PostgreSQL
-- Progress Open Edge
+- ✅ **Conhecimento em Oracle**:
+- ✅ **Conhecimento em Microsoft SQL Server**:
+- ✅ **Conhecimento em Progress Open Edge**:
+- ✅ **Conhecimento em Postgres SQL**:
+
 
 ---
 
